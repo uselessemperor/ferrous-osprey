@@ -1,0 +1,17 @@
+{
+  "name": "audio-converter",
+  "version": "1.0.0",
+  "description": "Code to connect to Google CLoud for speech to text conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "DW",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^0.10.3",
+    "util": "^0.10.3",
+    "ws": "^3.3.0"
+  }
+}

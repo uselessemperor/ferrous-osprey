@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ferrous-osprey-184713",
+  "private_key_id": "787ad51af3b40ba6e6f741400f7e2d024d6097bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCpZUqaLc7Xt9i\n3UhDaSel6iNLglNSZ7yrVe8dZLUVhWmfeTrQ6zhhM4N+xmF9CJ9T72v0YjqjoOtq\nT8304LAKfEQqfbLX7f9L1E65S8/xKYnwS6gfnYdENYH/Ls/fd4M9AAnF6QfcJeg+\np3QpqdRTdZyxMt7+b5D+EOKYMoU9B8EsXzQUnNdcJ1QPqLmhDQS1TBS8RGqOFAMe\nJ1qEhbPhc56tbapxx2JeJx8xTYCPqWVoojT8FEJ1/P/G8RVPv7y+BmMCXcq6+7p9\nWzyDLxG1sUV3a+KNmSrZyp247Ci4T3UXQIK8KXRuYA/Rf0GfLtOGeJ69dSC4jR40\nD/+er1vlAgMBAAECggEACqBC/SpzzFIw1EMbyZBRSYm3bQ0bkt1Wa60YjWx8xUTA\nACR8XUDmFkpbZJ2cX1jL5+djZ5dAN8QWbfqW1gY5Hg1sJDyx+X9E52Ua+hslKjd4\nEA31SuqM4qCgLOfnkb3CxJ7+qZb/5pkMLXVzTj32+SpryDGsgkvhaLlPwXrKkssD\nyFzdnF4UkBuu1Jr39WOQ97ndtyfBjkSfNFaQNorpC6+z25ppii89PO55GzNktUhC\nDySdb2vlmwruc5IsBCD5UOeLSKjtTxCbKMjcQ64fpYsoAlJwrKfzk69rOZ3a8EJb\nVWMr+gmhmQBn3MoC1Q/UTlKyFy78Zrw25+60mSoKOQKBgQD7wDH327apyTnFU7Lu\n3QxOr5Rs79+uBm0lGsIvvUfxLVKK5EK9to9y17Q+FcIQAI4XtpyramrSx6oo7Vuv\nCmsyClNdsJI7JEMcvDUhHFLPZKbb+OSbgnA1exeZfkljSktWoF0WGJsPtkLOEf69\n4xmDmE2NbiLbDF9t5tBR0qLErQKBgQDF7qTEWo0ihfojL9HCp478u14TKaW+1fRK\nOQFYtTycARXANR9SpvLtkCo21X51krRiplP9cnDafx0V0RPq35mYQItQJlRNNKnT\nDTn+0DZ7eclZMxQ85N60iGW1pJ5UuZvlGNAvrafJAnU9zHZT0xN6rC2UArxlyMF4\n1l9tsdCjGQKBgDX/dnhMdzSZxbtuhX24ihBCltp65QZluHlx8N7egZTYfNDvvuUE\nSGaAn9eFQTe/drrdX2NhEwKc8wGOT9EOsglsr47z9Zmb4I1ETT0J3zU+yI98JkS4\nyKqf+WLh9InIgLpW8UBxDKllFZUvxO0jzfAs9c11JyLG150yGdLDFEiNAoGBAIUW\nG0+zmyZVc4VpR99cjvY8fdrgrAOPFP07Kz6cTi6PRDLDBVarzrgRsXDBSJCBniye\nrebCpkMkKUhcFspcoogPDh1MSG7JNE8mm5JMKfYIQ2xovfjb4yr8c3cZQySw0LPQ\nZVtJpoGv12lAK2fdi0F2uAbHeCnwPLalXfECGMkxAoGAbEwF+uakitN237KTeuQO\nUSqxHGhwzhAlplU0Vqx0TKGok7NiPoLYu4extz1nk0XfG1V++P7OoYkjdI35wXpR\ngrJd4pJWh/Ze9mCEndQS5QgVgOK0rsDlY5NwALpzoxgDXMHkt/lk93mc2dDctrQU\nkaqGchcFjmXi6PfPHJk9JUc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mainaccount@ferrous-osprey-184713.iam.gserviceaccount.com",
+  "client_id": "105251376962852571068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mainaccount%40ferrous-osprey-184713.iam.gserviceaccount.com"
+}
